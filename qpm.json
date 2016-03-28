@@ -2,7 +2,7 @@
   "name": "quickly-skeleton",
   "description": "A starter kit for building a Qt/QML app with Quickly",
   "dependencies": [
-    "com.sonrisesoftware.quickly@0.0.3"
+    "com.sonrisesoftware.quickly@0.0.5"
   ],
   "license": "NONE",
   "pri_filename": "",
